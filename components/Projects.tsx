@@ -8,12 +8,9 @@ const Projects: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center md:items-end gap-6 mb-16">
           <div className="text-center md:text-left">
-            <h2 className="text-3xl md:text-6xl font-heading font-bold mb-4 text-slate-900 tracking-tight">Featured Projects</h2>
+            <h2 className="text-3xl md:text-6xl font-heading font-bold mb-4 text-slate-900 tracking-tight">Projects</h2>
             <div className="w-20 h-1.5 bg-orange-500 rounded-full mx-auto md:mx-0" />
           </div>
-          <p className="text-slate-500 text-sm md:text-base font-medium max-w-sm text-center md:text-right">
-            A selection of architectural solutions building scalable, high-performance systems.
-          </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
