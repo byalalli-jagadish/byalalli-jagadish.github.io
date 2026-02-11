@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Portfolio",
+  "description": "A world-class developer portfolio with an integrated Gemini-powered AI assistant to answer questions about your skills and projects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
