@@ -2,7 +2,7 @@
 import { Project, Experience, Skill, SkillCategory } from './types';
 
 export const PERSONAL_INFO = {
-  name: "Jagadish",
+  name: "Byalalli Jagadish",
   role: "Software Developer",
   bio: "Software Developer with 1+ years of experience building scalable backend systems. I specialize in Java, Spring Boot, and AWS, delivering high-performance microservices for global automotive leaders like GMF, BMW, and Honda. Passionate about clean architecture, performance optimization, and AI-driven innovation.",
   location: "Bangalore, India",
